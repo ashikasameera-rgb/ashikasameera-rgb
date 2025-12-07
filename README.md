@@ -6,20 +6,27 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a Full Stack Developer specializing in **real-time, responsive, single-page web applications**. I enjoy building clean, efficient, and maintainable code that solves real-world problems.  
+Passionate about building scalable, secure, and high-performance applications.
+15+ years of experience delivering enterprise systems, ERP integrations, and modern web apps. 
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-C#, HTML, CSS, JavaScript, Microsoft SQL, MySQL  
+C#, HTML, CSS, JavaScript (ES6+), SQL (Microsoft SQL Server, MySQL)  
 
 **Frameworks & Tools:**  
-.NET Core 9.0, Bootstrap, jQuery, Ajax, Entity Framework, Git, GitHub, Docker, DevOps, Azure  
+.NET Core 9.0,React.js,Node.js,jQuery,Bootstrap, Ajax
+
+**Back-End / API Development:**
+ASP.NET Core (MVC / Web API),Node.js + Express,RESTful API design,Entity Framework Core
+
+**Tools & Platforms:**
+Git & GitHub,Docker,CI/CD Pipelines,Azure DevOps,Azure Cloud Services
 
 **Currently Learning:**  
-Kubernetes, Azure Cloud, Microservices, CQRS  
+Kubernetes,Advanced Azure Cloud,Microservices Architecture,CQRS & Event-Driven Patterns
 
 ---
 
