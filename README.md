@@ -1,42 +1,56 @@
 # Hi there 👋, I'm Sameera  
-**Senior Full-Stack Developer | .NET / C# | Event-Driven & Cloud Architect Enthusiast**
+**Senior .NET Developer | Enterprise Systems Engineer | ERP/MES Integration Specialist**
 
-> "Turning ideas into scalable, maintainable, and high-performance enterprise solutions."  
+> "I design scalable architectures, build reliable APIs, and solve complex problems across manufacturing and enterprise environments."  
 
 ---
 
 ## 👨‍💻 About Me
-Passionate about designing and building scalable, secure, and high-performance applications. 15+ years of experience delivering enterprise systems, ERP integrations, MES workflows, and modern web applications. Strong focus on software design, architecture patterns, and cloud-native development. 
+I’m a Senior .NET Developer with 15+ years of experience building ERP, MES, workflow automation, and large‑scale enterprise integrations. My work focuses on designing clean, maintainable backend systems, modernising legacy platforms, and delivering end‑to‑end digital transformation in manufacturing environments.
+
+I enjoy simplifying complex processes, improving system performance, and collaborating with cross‑functional teams to deliver solutions that actually move the business forward. 
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-C#, HTML, CSS, JavaScript (ES6+), SQL (Microsoft SQL Server, MySQL)  
-
-**Frameworks & Libraries:**  
-.NET Core / ASP.NET Core (MVC & Minimal APIs), React.js, Node.js + Express, jQuery, Bootstrap, AJAX, Entity Framework Core
+**Languages, Frameworks & Libraries**  
+C#, .NET / ASP.NET Core, REST APIs, WPF, WCF, Entity Framework Core, React.js, TypeScript, JavaScript, Node.js / Express, jQuery, Bootstrap, AJAX
 
 **Architecture & Design:**
-OOP, SOLID Principles, Design Patterns, TDD, DDD, Clean Architecture, Event-Driven Architecture, CQRS, Microservices
+OOP, SOLID, Clean Architecture, DDD, CQRS, Event‑Driven Design, Microservices, API‑first development, asynchronous programming, integration engineering
 
-**Messaging & Integration:**
-RabbitMQ, Apache Kafka, RESTful APIs, ERP system integrations
+**Data & Persistence:**
+SQL Server, MySQL, MongoDB, DB2, Entity Framework, LINQ, stored procedures, performance tuning, query optimisation
 
-**DevOps & Cloud:**  
-Docker, CI/CD Pipelines, Azure Cloud, Azure DevOps, Kubernetes (CKAD – in progress)
+**Messaging**
+RabbitMQ, Apache Kafka
 
-**Testing:** 
-xUnit, NUnit, MSTest
+**Cloud, DevOps & Tooling:**  
+Azure, Docker, CI/CD pipelines, Git/GitHub, xUnit, NUnit, Postman, build & release automation
+
+**Enterprise Systems & Integrations :** 
+Epicor, IFS, IBM iSeries (AS/400), MES, supply chain workflows, EDI, XML, IDoc, large‑scale ERP/MES integrations
+
+**Engineering Quality :** 
+Debugging, root cause analysis, integration testing, SQL validation, performance optimisation, production‑ready coding standardsEpicor, IFS, IBM iSeries (AS/400), MES, supply chain workflows, EDI, XML, IDoc, large‑scale ERP/MES integrations
+
+---
+## 🚀 What I Do
+- Build scalable backend systems and clean, reliable APIs
+- Modernise legacy ERP/MES modules using modern architecture patterns
+- Automate manufacturing workflows and integrate enterprise systems
+- Design event‑driven, microservice‑based solutions
+- Improve performance, reliability, and operational visibility
+- Lead debugging, Root Cause Analysis, and production support for complex environments
 
 ---
 
 ## 🎯 Career Goals
-- Build cloud-native, event-driven enterprise applications using Azure and Kubernetes 
-- Develop **real-time, scalable SPA solutions**  
-- Apply **software design and architectural best practices** in ERP and manufacturing systems
-- Contribute to open-source projects and collaborate with developers globally 
+- Architect cloud‑native, event‑driven enterprise platforms on Azure
+- Build real‑time, scalable applications for manufacturing and operations
+- Contribute to open‑source projects in .NET, integration tooling, and automation
+- Mentor developers and promote clean engineering practices
 
 ---
 
